@@ -161,6 +161,8 @@ header {
   background: #8E26B8;
 }
 
+
+
 .menu__top li a::before {
   position: absolute;
   bottom:-2px;
@@ -531,8 +533,10 @@ h2 span {
 
 .form_input {
   border:none;
+  font-family: "Inter", sans-serif;
   background: #F2F3F7 ;
   width: 100%;
+  font-weight: 300;
   margin: 0 0 28px 0;
 }
 
